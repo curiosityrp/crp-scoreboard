@@ -1,0 +1,78 @@
+html {
+	color: #34495e;
+	font-family: Monospace;
+}
+
+#wrap {
+    width: 2vw;
+    margin: auto;
+    position: relative;
+    left:33vw;
+    top:9vw;
+    display: flex;
+    flex-direction: row;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+p {
+	float: center;
+	margin-left: 10px;
+	font-size: 1.05vw;
+}
+
+.header {
+	font-family: Monospace;
+    height: 460px;
+    width: 50px;
+    background-color: rgb(0, 0, 0, 0.5);
+    padding-right: 32px;
+    padding-top: 10px;
+    margin-top: 48%;
+    border-radius: 25px;
+}
+
+.jobs {
+	font-family: Monospace;
+	height: 4vw;
+	width: 140%;
+}
+
+.jobs p {
+	font-family: Monospace;
+	text-align: center;
+}
+
+table {
+	text-align: center;
+    color: white;
+}
+
+th, td {
+    padding-right: 10px;
+}
+
+th {
+    height: 30px;
+}
+
+tr {
+	font-size: 0.9vw;
+	font-family: Monospace;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+tr.heading {
+	font-size: 1vw;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.playerlist {
+    margin-right:6%;
+}
+
+.serverinfo {
+    font-size: 0.9vw;
+    background-color: rgb(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin-right:4%;
+}
