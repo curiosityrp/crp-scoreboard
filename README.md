@@ -1,2 +1,5 @@
+# Curiosity Roleplay
+![CRP](https://i.imgur.com/6BGGD4W.jpg)
+
 # crp-scoreboard
-Official scoreboard used in the server
+Official door script used in the server. 
